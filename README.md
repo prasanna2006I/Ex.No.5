@@ -54,7 +54,6 @@ The following scenarios were selected for comparison:
 2. Factual Question Answering  
 3. Summarization  
 4. Advice and Recommendation  
-
 For each scenario:
 - A naïve prompt was tested
 - A basic prompt was tested
